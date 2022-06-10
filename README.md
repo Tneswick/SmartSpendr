@@ -8,6 +8,7 @@
 Enter a name and transaction amount, then click the corresponding button for that transaction ("Add funds" if it was money you gained, "Subtract Funds" if it was money you spent). Use the graph to visualize your budget.
 
 ## 🔗 Site
+[SmartSpendr](https://guarded-everglades-15332.herokuapp.com/)
 
 ## 📸 Screenshot
 ![Screenshot](./public/images/SmartSpendr-screenshot.png)
